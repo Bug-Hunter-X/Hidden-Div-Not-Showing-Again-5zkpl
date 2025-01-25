@@ -1,0 +1,2 @@
+# Hidden Div Not Showing Again
+This repository demonstrates a simple yet uncommon HTML bug involving the hiding of a div element without a mechanism to restore its visibility. The `bug.html` file contains the initial code exhibiting the bug. The `bugSolution.html` file provides a solution.
